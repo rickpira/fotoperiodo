@@ -10,6 +10,7 @@ st.title("🧮 Calculadora de Fotoperíodo")
 
 st.markdown("""
 Este aplicativo calcula o **fotoperíodo** com base na **latitude** e **data** fornecidas.
+Desenvolvido pelo prof. Cláudio Ricardo da Silva -UFU
 
 - Informe a latitude do local (negativa no Hemisfério Sul)
 - Selecione uma data do ano
